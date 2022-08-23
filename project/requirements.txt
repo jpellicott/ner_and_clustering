@@ -1,0 +1,10 @@
+fastapi
+pydantic
+uvicorn
+loguru
+scikit-learn
+numpy
+sentence-transformers
+nerda
+torch
+nltk
